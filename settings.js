@@ -3,7 +3,7 @@ const chalk = require('chalk')
 
 
 global.botname = "Queen Anya" 
-global.botLanguage = "default" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 || 𝗛𝗶𝗻𝗱𝗶 || 𝗔𝗿𝗮𝗯𝗶𝗰 \\
+global.botLanguage = "ENGLISH" // 𝗗𝗲𝗳𝗮𝘂𝗹𝘁 || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵 || 𝗛𝗶𝗻𝗱𝗶 || 𝗔𝗿𝗮𝗯𝗶𝗰 \\
 global.author = "🤍 ᶜᵁ̥ᵀ̯ᴱ̥׀〲⃝ꜱͥᴇɴͣᴜͫ ×͜× 👻"  
 global.packname = "𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈"  
 global.myweb = "https://github.com/PikaBotz" // You can put any link 
@@ -26,8 +26,8 @@ global.email = "example@exmaple.com" // put your email here
 
 
 //------------ 🌟 Premium Users 🌟-------------\\
-global.premium = ['916900******','94740612695']  // available soon
-global.sudo = ['916900******','94740612695']  // Co - Owners //
+global.premium = ['94740612695','94740612695']  // available soon
+global.sudo = ['94740612695*','94740612695']  // Co - Owners //
 
 global.prefa = ['-','🥵','🔥']
 
@@ -80,9 +80,9 @@ global.Menuimage = fs.readFileSync("./AnyaPikaMedia/theme/Menu/Menuimg.jpg")
 global.thumnnaiIs = fs.readFileSync("./AnyaPikaMedia/theme/Menu/Menuimg2.jpeg")
 
 //--------------- Systemic Function --------------\\
-global.autoTyping = false 
+global.autoTyping = true 
 global.autoreadpmngc = false 
-global.autoReadGc = false 
+global.autoReadGc = true 
 global.autoRecord = false 
 global.available = true
 global.autoTyping = false 
