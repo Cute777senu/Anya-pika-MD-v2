@@ -81,10 +81,10 @@ global.thumnnaiIs = fs.readFileSync("./AnyaPikaMedia/theme/Menu/Menuimg2.jpeg")
 
 //--------------- Systemic Function --------------\\
 global.autoTyping = "true" 
-global.autoreadpmngc = "true" 
-global.autoReadGc = "true" 
-global.autoRecord = "fales" 
-global.available = "true"
+global.autoreadpmngc = fales 
+global.autoReadGc = fales
+global.autoRecord = falese
+global.available = true
 global.autoTyping = "true"
 
 //----------- Users Userlimit -----------\\
